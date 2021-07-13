@@ -1,0 +1,127 @@
+[
+    {
+        "ID": "0",
+        "text": "The officer quickly loaded his gun.",
+        "type": 0
+    },
+    {
+        "ID": "1",
+        "text": "The mathematician confusedly scratched her head.",
+        "type": 1
+    },
+    {
+        "ID": "2",
+        "text": "The doctor carefully prepared his tools.",
+        "type": 0
+    },
+    {
+        "ID": "3",
+        "text": "The drummer loudly hit her drum.",
+        "type": 1
+    },
+    {
+        "ID": "4",
+        "text": "The professor silently opened his book.",
+        "type": 0
+    },
+    {
+        "ID": "5",
+        "text": "The champion proudly received her award.",
+        "type": 1
+    },
+    {
+        "ID": "6",
+        "text": "The politician viciously mocked his opponent.",
+        "type": 0
+    },
+    {
+        "ID": "7",
+        "text": "The owner excitedly greeted his dog.",
+        "type": 0
+    },
+    {
+        "ID": "8",
+        "text": "The principal angrily raised her eyebrows.",
+        "type": 1
+    },
+    {
+        "ID": "9",
+        "text": "The stripper seductively dropped his clothes.",
+        "type": 1
+    },
+    {
+        "ID": "10",
+        "text": "The nurse thoroughly washed his hands.",
+        "type": 1
+    },
+    {
+        "ID": "11",
+        "text": "The cashier irritatedly rolled her eyes.",
+        "type": 0
+    },
+    {
+        "ID": "12",
+        "text": "The clown playfully raised his hat.",
+        "type": 0
+    },
+    {
+        "ID": "13",
+        "text": "The pilot bravely landed her plane.",
+        "type": 1
+    },
+    {
+        "ID": "14",
+        "text": "The priest quietly said his prayers.",
+        "type": 0
+    },
+    {
+        "ID": "15",
+        "text": "The engineer tiredly cleaned her glasses.",
+        "type": 1
+    },
+    {
+        "ID": "16",
+        "text": "The banker cautiously closed her safe.",
+        "type": 1
+    },
+    {
+        "ID": "17",
+        "text": "The scientist briefly presented her study.",
+        "type": 1
+    },
+    {
+        "ID": "18",
+        "text": "The mother gently held her baby.",
+        "type": 0
+    },
+    {
+        "ID": "19",
+        "text": "The teacher warningly pointed his finger.",
+        "type": 0
+    },
+    {
+        "ID": "20",
+        "text": "The model nicely painted her nails.",
+        "type": 0
+    },
+    {
+        "ID": "21",
+        "text": "The robber accidentally dropped her weapon.",
+        "type": 1
+    },
+    {
+        "ID": "22",
+        "text": "The student curiously opened her book.",
+        "type": 1
+    },
+    {
+        "ID": "23",
+        "text": "The actor passionately raised his voice.",
+        "type": 0
+    },
+    {
+        "ID": "24",
+        "text": "The dancer elegantly moved his feet.",
+        "type": 1
+    }
+]
